@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./build_ale21.sh 16
+./build_ale21.sh 2
